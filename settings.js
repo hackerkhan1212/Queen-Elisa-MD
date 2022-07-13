@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['923229931076'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['923229931076'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['923229931076'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '𝔦𝔱𝔵-𝔦𝔟𝔯𝔞𝔥𝔦𝔪' // Your name ඔබේ නම 
+global.botnma = '💃 𝔦𝔱𝔵-𝔦𝔟𝔯𝔞𝔥𝔦𝔪 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝔦𝔱𝔵-𝔦𝔟𝔯𝔞𝔥𝔦𝔪' //ownernama,ownername
+global.packname = '𝔦𝔱𝔵-𝔦𝔟𝔯𝔞𝔥𝔦𝔪 Sticker' // Sticker package name 
+global.author = '𝔦𝔱𝔵-𝔦𝔟𝔯𝔞𝔥𝔦𝔪' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝔦𝔱𝔵-𝔦𝔟𝔯𝔞𝔥𝔦𝔪 𝐌𝐃`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
@@ -74,15 +74,15 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", 
-    free: 90 
+    free: Infinity 
 }
     global.rpg = {
-        darahawal: 100,
-        besiawal: 15,
-        goldawal: 10,
-        emeraldawal: 5,
-        umpanawal: 5,
-        potionawal: 1
+        darahawal: 100000000000000,
+        besiawal: 100000000000000005,
+        goldawal: 10000000000000000,
+        emeraldawal: 500000000000,
+        umpanawal: 500000000000,
+        potionawal: 10000000000000000
      }    
 
 global.thumb = fs.readFileSync('./image/Elisa.jpg')
